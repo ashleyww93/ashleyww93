@@ -25,9 +25,18 @@ Here are some ideas to get you started:
 ## Open source projects
 * [SharpNeedle](https://github.com/ashleyww93/SharpNeedle) - An Open Source .Net assembly injector, created in 2016.
 
-## Additional Information
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashleyww93/)
+## 📫 How to reach me:
+<a href="https://www.linkedin.com/in/ashleyww93/">
+  <img height=28 align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ashleyww93 on linked in"/>
+</a>
+<a href="#">
+  <img height=28 align="center"  src="https://dcbadge.vercel.app/api/shield/241614312416739329?compact=true" alt="ashleyww93 on discord"/>
+</a>
 
-
-<!-- <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ashleyww93&theme=dark" alt="My Stats"/> -->
+## Statistics
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-git-main-ashleyww93.vercel.app/api?username=ashleyww93&count_private=true&theme=transparent&show_icons=true&hide_rank=true&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-git-main-ashleyww93.vercel.app/api/top-langs/?username=ashleyww93&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
+</a>
