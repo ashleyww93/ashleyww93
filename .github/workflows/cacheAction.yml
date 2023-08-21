@@ -23,7 +23,7 @@ jobs:
         with:
           name: stats
           path: grs
-     - uses: suisei-cn/actions-download-file@v1.3.0
+      - uses: suisei-cn/actions-download-file@v1.3.0
         id: langs
         name: Download the langs file
         with:
