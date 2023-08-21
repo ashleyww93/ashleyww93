@@ -23,18 +23,26 @@ jobs:
         with:
           name: stats
           path: grs
-     - uses: suisei-cn/actions-download-file@v1.3.0
+          
+  langs:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Langs Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
         id: langs
         name: Download the langs file
         with:
           url: "https://github-readme-stats-git-main-ashleyww93.vercel.app/api/top-langs/?username=ashleyww93&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" # Put your own vercel instance URL here
           target: grs
-          filename: langs # Need to have the file name prepared as svg
+          filename: langs.svg # Need to have the file name prepared as svg
       - uses: actions/upload-artifact@master
         with:
           name: langs
           path: grs
-
+          
   push:
     permissions: write-all
     runs-on: ubuntu-latest
