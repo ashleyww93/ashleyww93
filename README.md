@@ -31,7 +31,7 @@ I'd love to hear what you have in mind, please reach out to me using one of the 
 
 ## Statistics
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-git-main-ashleyww93.vercel.app/api?username=ashleyww93&count_private=true&theme=dark&show_icons=true&hide_rank=true&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/ashleyww93/ashleyww93/resource/grs/stats.svg" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats-git-main-ashleyww93.vercel.app/api/top-langs/?username=ashleyww93&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dark&title_color=fff&text_color=fff&icon_color=fff&border_color=fff" />
