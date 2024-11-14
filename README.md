@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## Open source projects
 * [SharpNeedle](https://github.com/ashleyww93/SharpNeedle) - An Open Source .Net assembly injector, created in 2016.
+* [Expo NurSDK](https://github.com/ashleyww93/expo-nur-sdk) - An Expo plugin to bring Nordic SDK to the managed workflow
 
 ## Want to collaborate with me?
 I'd love to hear what you have in mind, please reach out to me using one of the methods at the bottom of this section.
