@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * Over the next few years, it's my personal goal to share my skill by contributing to more open-source projects.
 
 ## How I keep busy
-* I am currently working as Head of Engineering at [Cloudshelf](https://cloudshelf.ai) - We build an in-store endless aisle solution for retailers.
+* I am currently working as the CTO at [Cloudshelf](https://cloudshelf.ai) - We build an in-store endless aisle solution for retailers.
 * I do freelance consulting & software engineering.
 
 ## Open source projects
